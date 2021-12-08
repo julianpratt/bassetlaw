@@ -99,12 +99,12 @@ header a:hover{
 
 /* Showcase */
 #showcase{
-  min-height:500px;
-  background:url('../img/showcase.jpg'); 
+  min-height:512px;
+  background:url('../img/retford3.png'); 
   background-repeat: no-repeat;
-  background-size: 2076px 500px;
+  background-size: 1822px 512px;
   text-align:center;
-  color:#ffffff;
+  color:#000000;
 }
 
 #showcase h1{
